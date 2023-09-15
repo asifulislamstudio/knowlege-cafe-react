@@ -1,0 +1,50 @@
+[
+    {
+      "banner_img": "https://i.ibb.co/TWZ6JL3/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["fiction", "adventure", "story"],
+      "reading_time": 10
+    },
+    {
+      "banner_img": "https://i.ibb.co/MSMMMfS/sigmund-AQTA5-E6m-CNU-unsplash.jpg",
+      "title": "The Mystery of Fake Data",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["mystery", "data", "fiction"],
+      "reading_time": 15
+    },
+    {
+      "banner_img": "https://i.ibb.co/NrBdsZB/mohammad-rahmani-Fx34-Keq-IEw-unsplash.jpg",
+      "title": "Cooking Adventures",
+      "author_name": "Chef Robert",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["cooking", "recipes", "food"],
+      "reading_time": 8
+    },
+    {
+      "banner_img": "https://i.ibb.co/VN16Vx0/arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg",
+      "title": "Tech Trends 2023",
+      "author_name": "Tech Guru",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["technology", "trends", "innovation"],
+      "reading_time": 12
+    },
+    {
+      "banner_img": "https://i.ibb.co/y6zZg4L/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg ",
+      "title": "Traveling the World",
+      "author_name": "Wanderlust Explorer",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["travel", "adventure", "explore"],
+      "reading_time": 20
+    },
+    {
+      "banner_img": "https://i.ibb.co/y6zZg4L/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg ",
+      "title": "Health and Wellness Tips",
+      "author_name": "Healthy Living",
+      "author_img": "https://i.ibb.co/wQTBXCD/client.png",
+      "hashtags": ["health", "wellness", "tips"]
+     
+    }
+]  
