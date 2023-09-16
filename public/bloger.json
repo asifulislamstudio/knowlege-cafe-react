@@ -1,7 +1,7 @@
 [
     {
       "banner_img": "https://i.ibb.co/TWZ6JL3/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
-      "title": "Lorem Ipsum Dolor Sit Amet",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "John Doe",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
       "hashtags": ["fiction", "adventure", "story"],
@@ -9,7 +9,7 @@
     },
     {
       "banner_img": "https://i.ibb.co/MSMMMfS/sigmund-AQTA5-E6m-CNU-unsplash.jpg",
-      "title": "The Mystery of Fake Data",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "Jane Smith",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
       "hashtags": ["mystery", "data", "fiction"],
@@ -17,7 +17,7 @@
     },
     {
       "banner_img": "https://i.ibb.co/NrBdsZB/mohammad-rahmani-Fx34-Keq-IEw-unsplash.jpg",
-      "title": "Cooking Adventures",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "Chef Robert",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
       "hashtags": ["cooking", "recipes", "food"],
@@ -25,7 +25,7 @@
     },
     {
       "banner_img": "https://i.ibb.co/VN16Vx0/arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg",
-      "title": "Tech Trends 2023",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "Tech Guru",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
       "hashtags": ["technology", "trends", "innovation"],
@@ -33,7 +33,7 @@
     },
     {
       "banner_img": "https://i.ibb.co/y6zZg4L/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg ",
-      "title": "Traveling the World",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "Wanderlust Explorer",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
       "hashtags": ["travel", "adventure", "explore"],
@@ -41,10 +41,10 @@
     },
     {
       "banner_img": "https://i.ibb.co/y6zZg4L/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg ",
-      "title": "Health and Wellness Tips",
+      "title": "How to get your first job as a self-taught programmer",
       "author_name": "Healthy Living",
       "author_img": "https://i.ibb.co/wQTBXCD/client.png",
-      "hashtags": ["health", "wellness", "tips"]
-     
+      "hashtags": ["health", "wellness", "tips"],
+      "reading_time": 16
     }
 ]  
